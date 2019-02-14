@@ -33,3 +33,5 @@ Magazine.prototype.constructor = Magazine;
 console.log(mag1.getSummary());
 
 console.log(mag1);
+
+console.log(mag1);
